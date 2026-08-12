@@ -1,0 +1,6 @@
+*.zip
+*.exe
+_internal/
+settings.json
+Thumbs.db
+desktop.ini
